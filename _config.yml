@@ -28,11 +28,9 @@ github_username:  mlowdi
 mastodon:
   - username: mlf
     instance: suedi.club
-minima:
-  skin: dark
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
