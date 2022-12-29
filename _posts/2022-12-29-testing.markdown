@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Testing"
+date:   2022-12-29
+categories: meta
+---
+
+I just want to see if the deployment workflow works as I want it to.
+
+l8rs m8z0rs
