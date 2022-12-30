@@ -11,6 +11,8 @@ categories: fediverse
 
 Måndagen den 26:e december tog Suedi.Club beslutet att inleda en defederering av mastodon.se.
 
+<!--more-->
+
 Det uppstod en rad frågor om varför vi valt att "kampanja" mot mastodon.se och dess administratör.
 
 Vi fick även höra att det rörde sig om en rad olika andra teorier om varför, däribland att konflikten var av en personlig natur.
