@@ -6,12 +6,11 @@ categories: fediverse
 ---
 
 *Detta inlägg är skrivet av admin för [Suedi.Club](suedi), där jag ingår i moderatorteamet.*
+<!--more-->
 
 # Detta har hänt
 
 Måndagen den 26:e december tog Suedi.Club beslutet att inleda en defederering av mastodon.se.
-
-<!--more-->
 
 Det uppstod en rad frågor om varför vi valt att "kampanja" mot mastodon.se och dess administratör.
 
