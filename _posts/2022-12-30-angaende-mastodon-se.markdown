@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Angående mastodon.se"
-date:   2022-12-30 13:15:00 +0100
+date:   2022-12-30 13:10:00 +0100
 categories: fediverse
 ---
 
