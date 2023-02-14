@@ -5,7 +5,7 @@ date:   2022-12-30 13:10:00 +0100
 categories: fediverse
 ---
 
-*Detta inlägg är skrivet av admin för [Suedi.Club](suedi), där jag ingår i moderatorteamet.*
+*Detta inlägg är skrivet av admin för [Suedi.Club](4), där jag ingår i moderatorteamet.*
 <!--more-->
 
 # Detta har hänt
@@ -137,12 +137,12 @@ Väldigt många av oss sett de här trakasserierna på Twitter i snart femton å
 
 Allt väl och pay it forward,
 
-[Admin för Suedi.Club](admin)
+[Admin för Suedi.Club](5)
 
 [1]: https://blog.mastodon.se/inl%C3%A4gg/v%C3%A4g-fram%C3%A5t/
 [2]: https://blog.mastodon.se/inl%C3%A4gg/av-federering/
 [3]: https://blog.mastodon.se/inl%C3%A4gg/%C3%A5siktspolis/
-[suedi]: https://suedi.club/
-[admin]: https://suedi.club/@Admin
+[4]: https://suedi.club/
+[5]: https://suedi.club/@Admin
 
 [^1]: (Moots, Glenn A. *The Covenant Tradition of Federalism: The Pioneering Studies of Daniel J. Elazar* i Ward, Ann & Ward, Lee (red.) (2009). *The Ashgate research companion to federalism*. Farnham: Ashgate)
