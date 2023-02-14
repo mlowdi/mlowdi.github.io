@@ -5,7 +5,7 @@ date:   2022-12-30 13:10:00 +0100
 categories: fediverse
 ---
 
-*Detta inlägg är skrivet av admin för [Suedi.Club](4), där jag ingår i moderatorteamet.*
+*Detta inlägg är skrivet av admin för [Suedi.Club][4], där jag ingår i moderatorteamet.*
 <!--more-->
 
 # Detta har hänt
@@ -137,7 +137,7 @@ Väldigt många av oss sett de här trakasserierna på Twitter i snart femton å
 
 Allt väl och pay it forward,
 
-[Admin för Suedi.Club](5)
+[Admin för Suedi.Club][5]
 
 [1]: https://blog.mastodon.se/inl%C3%A4gg/v%C3%A4g-fram%C3%A5t/
 [2]: https://blog.mastodon.se/inl%C3%A4gg/av-federering/
